@@ -1,0 +1,28 @@
+body{
+    width: 550px;
+    margin: auto;
+    font-family: 'Oswald', sans-serif;
+    background-color: #E6E6E9;
+}
+
+h1 {
+    border-bottom: 1px solid black;
+}
+
+.square {
+    height: 80px;
+    width: 80px;
+    font-size: 40pt;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    cursor: pointer;
+}
+
+#message{
+    font-size: 25pt;
+}
+
+a {
+    text-decoration: none;
+    color : black;
+}
